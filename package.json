@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "console-log-colors": "^0.4.0"
   }
